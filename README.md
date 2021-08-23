@@ -2,7 +2,7 @@
 
 - 🐱‍👤 Formado em Full Stack Developer pela Growdev
 - 🌱 Cursando CWI Reset
-- 📫 Quer falar comigo? Envie uma mensagem para trend7@gmail.com
+- 📫 Quer falar comigo? Envie uma mensagem para trend7@outlook.com
 
 <div>
   <a href="https://github.com/Rodrigo-Arnhold">
