@@ -2,7 +2,7 @@
 
 - 🐱‍👤 Formado em Full Stack Developer pela Growdev
 - 🌱 Cursou CWI Reset
-- 🤖
+- 🤖 QA Tester em Paipe Tecnologia
 - 📫 Quer falar comigo? Envie uma mensagem para trend7@outlook.com
 
 <div>
