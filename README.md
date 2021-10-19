@@ -1,7 +1,8 @@
 ## OLÁ, SEJA BEM-VINDO! 👋
 
 - 🐱‍👤 Formado em Full Stack Developer pela Growdev
-- 🌱 Cursando CWI Reset
+- 🌱 Cursou CWI Reset
+- 🤖
 - 📫 Quer falar comigo? Envie uma mensagem para trend7@outlook.com
 
 <div>
